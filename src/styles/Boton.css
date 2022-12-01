@@ -1,0 +1,35 @@
+.boton-clic{
+    height: 80px;
+    width: 220px;
+    background-color: #ff7c5f;
+    border-radius: 20px;
+    border: 0px solid ;
+    font-size: 35px;
+    font-weight: bold;
+    transition: all ease-in-out 0.2s;
+    cursor: pointer;
+    margin: 10px 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.3) 0px 2px 6px 2px;
+}
+.boton-clic:hover{
+    box-shadow: 0px 8px 18px rgba(255, 47, 0, 0.4);
+    color: white;
+}
+
+.boton-reiniciar{
+    height: 80px;
+    width: 220px;
+    background-color: #72cb10;
+    border-radius: 20px;
+    border: 0px solid ;
+    font-size: 35px;
+    font-weight: bold;
+    transition: all ease-in-out 0.2s;
+    cursor: pointer;
+    margin: 10px 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.3) 0px 2px 6px 2px;
+}
+.boton-reiniciar:hover{
+    box-shadow: 0px 8px 18px rgba(97, 189, 0, 0.4);
+    color: white;
+}
